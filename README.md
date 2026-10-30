@@ -1,3 +1,7 @@
-# DJ TrackBuilder MixAuto Pro — Web
+# Retired web build
 
-Compiled React web app for GitHub Pages. Audio files stay in the browser; no server upload. This repository contains only generated static assets. The development source is maintained in a separate private repository.
+This experimental browser build is retired. GitHub Pages is disabled.
+
+The single primary project is [DJ TrackBuilder MixAuto Pro](https://github.com/cocosend/DJ-TrackBuilder-MixAuto-Pro), restored to the user-supplied native 0.6.0 archive. The supplied nine-page Canva presentation is the design reference.
+
+This repository is historical backup, not an active application or installable iPhone release.
